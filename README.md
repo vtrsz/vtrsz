@@ -1,6 +1,7 @@
 <h1 align="center">Hey! i'm Vitor</h1>
 <h3 align="center">a guy who loves technology</h3>
 
+- 🔭 I'm currently working as **Graphic Designer**
 - 🌱 I’m currently learning **Java, JUnit, SpringBoot**
 
 <h3 align="left">Connect with me:</h3>
