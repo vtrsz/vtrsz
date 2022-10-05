@@ -21,7 +21,7 @@
 </p>
 
 <br>
-  <a href="https://github.com/vtrsz">
+<a href="https://github.com/vtrsz">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=vtrsz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vtrsz" /> 
-  </a>
-</p>
+    </p>
+</a>
