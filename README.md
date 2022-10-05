@@ -15,8 +15,8 @@
 <br>
 <p align="center">
   <a href="https://github.com/vtrsz">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vtrsz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="vtrsz"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtrsz&layout=compact&langs_count=7&theme=github_dark" alt="vtrsz"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vtrsz&repo=github-readme-stats&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtrsz&repo=anuraghazra.github.io&layout=compact&langs_count=7&theme=github_dark" />
   </a>
 </p>
 
